@@ -3,7 +3,7 @@
   "description": "hide top panel only when a fullscreen application has focus",
   "uuid": "hide-panel-for-fullscreen-windows-only@github.freder",
   "shell-version": [
-    "40"
+    "42"
   ],
   "url": "https://github.com/freder/hide-panel-for-fullscreen-windows-only",
   "version": 1.1
